@@ -15,3 +15,7 @@
  [Daily Audio Reading Catholic](https://dailyaudio.cf/)
 
  [Daily Rosary Prayer](https://dailyrosary.cf/)
+
+
+### My team
+Me, myself and I. It’s a solo dev business.
