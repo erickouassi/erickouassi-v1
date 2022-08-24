@@ -1,0 +1,40 @@
+// Are you a real business?
+I am Eric Kouassi a freelance web developer and the owner of Yorisi LLC.
+Your Credit Card/Paypal statements (depending on which checkout option you use) can name 
+“YORISI LLC”, 
+ or 
+“Eric Kouassi” 
+in your end-of-month bank/credit card statement. 
+This is all me.
+
+//
+Why do you not give refunds?
+Due to the nature of the products I provide, digital downloads and services, 
+I do not provide refunds. Intangible products can unfortunately not be returned. 
+However, if you are not satisfied with your purchase 
+or you believe it takes too long to complete your order 
+or for any reason you are not happy with the services I provide, 
+please tell me so we can find a solution for your concerns. 
+You can do so via the contact form.
+
+//
+I want to work for you, do you hiring?
+I’m not hiring, but if you want we can work on some projects together.
+
+// Project
+
+This project's goal is to organize the internal administration of the NGO and facilitate its interaction with collaborators.
+
+Before this project all the profiles on NGO's donors were ineffectively stored in Word and Excel files, which complicated the resource management.
+
+The anniversaries tab gives an overview of all the collaborators who have birthday in the current month.
+
+The mobile app for saving, lending and borrowing between close friends and family. 
+Available Now!
+
+Setting up a savings club isn’t easy. You need to track incoming cash, arrange payouts, and account for people who miss their payments.
+
+The committee notebook is a must-have for any ROSCA organiser. This is where you’ll record who has paid in each month, and who has received their payout. 
+If there are a lot of contributors in your club, and you’re dealing in cash, the notebook will help you keep track of all your ROSCA contributions.
+
+It takes a lot of work to set up and maintain your ROSCA, so anything that makes the job easier is welcome.
