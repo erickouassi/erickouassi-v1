@@ -2,7 +2,7 @@
 #### Personal website
  [erickouassi.com](https://erickouassi.com/)
 
- #### Side project
+ #### Side projects
  [mysusu Project Link](https://mysusu.cf/)
 
  [mysusu Demo](https://mysusu.cf/1010/home.html)
@@ -15,6 +15,16 @@
  [Daily Audio Reading Catholic](https://dailyaudio.cf/)
 
  [Daily Rosary Prayer](https://dailyrosary.cf/)
+
+ 
+ #### Open sources project
+
+ [openPrayers Project Link](https://github.com/erickouassi/openPrayers)
+
+ [countriesApi Project Link](https://github.com/erickouassi/countriesApi)
+
+ [Daily horoscope Project Link](https://github.com/erickouassi/json-horoscope)
+
 
 
 ### My team
