@@ -19,11 +19,11 @@
  
  #### Open sources project
 
- [openPrayers Project Link](https://github.com/erickouassi/openPrayers)
+ [openPrayers Project source code](https://github.com/erickouassi/openPrayers)
 
- [countriesApi Project Link](https://github.com/erickouassi/countriesApi)
+ [countriesApi Project source code](https://github.com/erickouassi/countriesApi)
 
- [Daily horoscope Project Link](https://github.com/erickouassi/json-horoscope)
+ [Daily horoscope Project source code](https://github.com/erickouassi/json-horoscope)
 
 
 
